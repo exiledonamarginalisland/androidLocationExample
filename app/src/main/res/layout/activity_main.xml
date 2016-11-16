@@ -22,5 +22,4 @@
         android:layout_height="wrap_content"
         android:text="@string/button_copy" />
 
-
 </LinearLayout>
